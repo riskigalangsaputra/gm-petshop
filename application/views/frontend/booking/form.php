@@ -7,7 +7,7 @@
 		</div>
 		<div class="row">
 			<div class="col-12">
-				<form>
+				<form action="" method="post">
 					<input type="hidden" name="" value="<?php echo $users->user_id?>" />
 					<div class="form-row">
 						<div class="form-group col-md-4">
